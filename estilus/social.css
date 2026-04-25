@@ -7,9 +7,12 @@
     font-family: Arial, Helvetica, sans-serif;
     }
 
+   
+
     img 
     {
-    width: 93vw;
+    width: 100vw;
+    height: auto;
     }
 
     a
